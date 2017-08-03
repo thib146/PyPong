@@ -1,1 +1,3 @@
 PyPong is a quick and simple version of Pong, coded in Python. It is a 2-player game (playable on the same keyboard). The ball goes faster as time goes on, and the first player reaching 10 wins.
+
+This project is part of self-teaching exercices to learn Python.
